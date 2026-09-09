@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Brahmanand Suryawanshi!
-#  <a herf="www.linkedin.com/in/brahma-s4383">Linkedin</a>
+#  <a href="www.linkedin.com/in/brahma-s4383">Linkedin</a>
 
 💻 I'm a Backend Developer specializing in Python, Django, REST APIs, and SQL.
 
